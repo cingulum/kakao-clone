@@ -1,2 +1,3 @@
 # kakao-clone
-practice#1 for cloning app
+
+Kakao Desktop APP Clone
